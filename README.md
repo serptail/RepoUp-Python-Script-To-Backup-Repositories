@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://ko-fi.com/serptail">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
-  </a>
-</p>
-
 # RepoUp
 
 RepoUp is a Python tool/script that automates the backup of GitHub repositories for a user. It clones repositories, creates bundles, and downloads release assets, providing a comprehensive backup solution.
@@ -64,10 +58,6 @@ If you find RepoUp useful, consider supporting me by:
 - Sharing the tool with others
 - Providing feedback and suggestions
 - Follow me for more :)
-
-<a href="https://ko-fi.com/serptail">
-  <img src="https://github.com/user-attachments/assets/ba118768-9054-416f-b7b2-adaa69a53434" alt="Support me on Ko-fi" width="200" />
-</a>
     
 ---
 For any issues or feature requests, please open an issue on GitHub. Happy coding!
